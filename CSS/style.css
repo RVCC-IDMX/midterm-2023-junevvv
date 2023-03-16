@@ -1,14 +1,14 @@
 body {
-    color: #FFFC19;
+    color: #DFFF00;
     background-color: #181818;
-        font-family: 'Amatic SC', cursive;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
 font-family: 'Courier Prime', monospace;
 
 }
 
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Amatic SC', cursive;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
     font-size: xx-large
 
@@ -16,6 +16,7 @@ h1, h2, h3, h4, h5, h6 {
 
 header {
     text-align: center;
+    background-color: #FF00FF;
 
 }
 
