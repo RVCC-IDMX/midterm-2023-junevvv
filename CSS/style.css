@@ -1,23 +1,29 @@
 body {
-    color: #DFFF00;
-    background-color: #181818;
-        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #181818;
+    background-color: #FAFAFA;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 font-family: 'Courier Prime', monospace;
 
 }
 
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+title {
     font-size: xx-large
+}
+
+#subtitle {
+ text-align: center;
+ font-family: monospace;
 
 }
 
 header {
-    text-align: center;
-    background-color: #FF00FF;
-
+  
 }
 
 #like {
@@ -53,7 +59,7 @@ header {
 }
 
 #gallery img {
-    max-width:200%;
+    max-width:100%;
 }
 
 
